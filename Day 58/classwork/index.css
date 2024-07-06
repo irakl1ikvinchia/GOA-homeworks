@@ -1,0 +1,13 @@
+.div{
+    justify-content:center;
+    /* გაცენტრავს x ღერძზე */
+
+    align-items:flex-start;
+    /* დააბრუნებს ქარხნულ ადგილზე */
+
+    flex-direction:column;
+    /* შეგვიძლია შევცვალოთ მთავარი ღერძი */
+
+    flex-wrap:wrap;
+    /* ალაგებს ახალ ხაზზე */
+}

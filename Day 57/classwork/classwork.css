@@ -1,0 +1,78 @@
+body{
+    display: flex;
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    width: 300px;
+    height: 200px;
+    border-radius: 25px;
+    background-image: url(./images/17328029_638978676305182_775217067_n.jpg);
+    background-size: cover;
+    margin: auto;
+    overflow: hidden;
+    text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 10px 10px  40px black;
+}
+
+.div2{
+    height: 100%;
+    color: black;
+    text-align: center;
+    padding-top: 70px;
+    background-color: rgba(21, 20, 88, 0.4);
+    font-size: 20px;
+}
+
+.tbilisi{
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    background-image: url(./images/images.jfif);
+    background-size: cover;
+    background-position: bottom;
+    margin: auto;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px black
+}
+
+.tbilisi-{
+    height: 100%;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(145, 161, 0);
+    background-color: rgba(207, 206, 113, 0.199);
+    padding-top: 70;
+    text-shadow: 2px 3px 4px black
+}
+
+.kutaisi{
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    background-image: url(./images/ქუთაისი.jpg);
+    background-size: cover;
+    background-position: bottom;
+    margin: auto;
+    overflow: hidden;
+    box-shadow: 10px 10px 40px black;
+    
+}
+
+.kutaisi-{
+    height: 100%;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(145, 161, 0);
+    background-color: rgba(8, 253, 0, 0.199);
+    padding-top: 70;
+    text-shadow: 5px 6px 7px rgba(0, 0, 0, 2);
+}

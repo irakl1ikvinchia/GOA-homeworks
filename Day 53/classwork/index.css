@@ -1,0 +1,11 @@
+button{
+    background-color: blue;
+}
+
+button:hower{
+    background-color: red;
+}
+
+button:active{
+    background-color: blue;
+}

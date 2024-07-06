@@ -1,0 +1,12 @@
+num1 = int(input("please enter your first num: "))
+num2 = int(input("please enter yoursecond num: "))
+
+print(num1 + num2)
+print(num1 * num2)
+print(num1 / num2)
+print(num1 - num2)
+print(num1 < num2)
+print(num1 > num2)
+print(num1 == num2)
+print(num1 <= num2)
+print(num1 >= num2)
