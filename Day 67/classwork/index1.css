@@ -1,0 +1,11 @@
+.box{
+    background-color: black;
+    width: 200px;
+    height: 300px;
+    transition: width 5s ease;       
+    /* width-ვუთითებთ თუ რისი შეცვლა გვინდა რა დროში (5s) და როგორი ფორმით (ease) */
+}
+
+.box:hover{
+    width: 300px;
+}

@@ -1,0 +1,10 @@
+.box{
+    background-color: black;
+    width: 200px;
+    height: 300px;
+    
+}
+
+.box:hover{
+    transform: rotate(45deg) translate(100px) scale(1.5)
+}
