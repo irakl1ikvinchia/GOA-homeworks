@@ -1,0 +1,12 @@
+.block{
+    background-color: purple;
+    width: 200px;
+    height: 300px;
+    transition: width 3s ease;
+    transform: rotate(90deg);
+    margin-left: 500px;
+}
+
+.block:hover{
+    width: 400px;
+}
