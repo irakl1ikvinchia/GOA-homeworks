@@ -1,0 +1,9 @@
+let time = 0;
+const id = setInterval(function (){
+    time ++;
+    console.log(time)
+    if(time === 35){
+        clearInterval(id);
+    }
+    console.log(id);
+},60000)
