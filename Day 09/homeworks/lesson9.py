@@ -98,3 +98,5 @@
 
 # num = int(input("enter your num: "))
 # print(num == -1 and num != 1)
+
+name = input("fsfs:")

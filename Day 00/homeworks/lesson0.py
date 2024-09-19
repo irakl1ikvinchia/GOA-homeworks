@@ -4,6 +4,10 @@ from turtle import *
 
 #step 1: draw a square
 
+# penup()
+# goto(-200,-200)
+# pendown()
+
 begin_fill()
 width(7)
 color("purple")

@@ -1,6 +1,5 @@
 name = "irakli"
 
-
 surname = "kvinchia"
 
 age = 17
