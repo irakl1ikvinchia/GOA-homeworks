@@ -4,7 +4,6 @@
 # print(mother + 2)
 # print(dad + 2)
 
-
- = 4
+score = 4
 
 print("მე ვარ",score)
